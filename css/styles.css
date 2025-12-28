@@ -1,0 +1,132 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+.hero-section {
+    background-color: #2E2F42;
+}
+
+.team-section {
+    background-color: #F4F4FD;
+}
+
+.page-footer {
+    background-color: #2E2F42;
+}
+
+.page-logo .logo-web {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.16;
+    color: #4D5AE5;
+    font-weight: 700;
+}
+
+.page-logo .logo-studio {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.16;
+    color: #2E2F42;
+    font-weight: 700;
+}
+
+.nav-list {
+    color: #2E2F42;
+    font-weight: 500;
+}
+
+.nav-list a:hover,
+.nav-list a:focus {
+    color: #4D5AE5;
+}
+
+.contact-list {
+    color: #434455;
+}
+
+.hero-title {
+    font-size: 56px;
+    line-height: 1.06;
+    color: #FFFFFF;
+    font-weight: 700;
+}
+
+.hero-button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404BBF;
+}
+
+.features-title {
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2E2F42;
+    font-weight: 500;
+}
+
+.team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    color: #2E2F42;
+    font-weight: 700;
+}
+
+.team-member-name {
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2E2F42;
+    font-weight: 500;
+}
+
+.portfolio-title {
+    font-size: 36px;
+    line-height: 1.11;
+    color: #2E2F42;
+    font-weight: 700;
+}
+
+.portfolio-project-title {
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2E2F42;
+    font-weight: 500;
+}
+
+.footer-logo .footer-logo-web {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.16;
+    color: #4D5AE5;
+    font-weight: 700;
+}
+
+.footer-logo .footer-logo-studio {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.16;
+    color: #F4F4FD;
+    font-weight: 700;
+}
+
+.footer-text {
+    color: #F4F4FD;
+}
+
