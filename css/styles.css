@@ -49,11 +49,16 @@ ul, ol {
 
 .nav-list a:hover,
 .nav-list a:focus {
-    color: #4D5AE5;
+    color: #404BBF;
 }
 
 .contact-list {
     color: #434455;
+}
+
+.contact-list a:hover,
+.contact-list a:focus {
+    color: #404BBF;
 }
 
 .hero-title {
