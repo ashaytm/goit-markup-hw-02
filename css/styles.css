@@ -43,24 +43,31 @@ ul, ol {
 }
 
 .nav-list {
-    color: #2E2F42;
-    font-weight: 500;
+  color: #2E2F42;
+  font-weight: 500;
+}
+
+.nav-list a {
+  color: inherit;
 }
 
 .nav-list a:hover,
 .nav-list a:focus {
-    color: #404BBF;
+  color: #404BBF;
 }
 
 .contact-list {
-    color: #434455;
+  color: #434455;
+}
+
+.contact-list a {
+  color: inherit;
 }
 
 .contact-list a:hover,
 .contact-list a:focus {
-    color: #404BBF;
+  color: #404BBF;
 }
-
 .hero-title {
     font-size: 56px;
     line-height: 1.06;
